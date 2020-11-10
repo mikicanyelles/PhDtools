@@ -1,0 +1,1 @@
+/Users/mikicanyelles/miniconda3/envs/py_env/lib/python3.7/site-packages/PhDtools-0.0a0-py3.7.egg
